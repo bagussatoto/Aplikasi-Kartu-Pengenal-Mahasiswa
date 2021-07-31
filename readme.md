@@ -1,6 +1,5 @@
 # APLIKASI KARTU PENGENAL MAHASISWA BERBASIS PHP CODEIGNITER 
 
-=============================================================
 
 **Fitur Aplikasi Kartu Tanda Mahasiswa**
 
@@ -17,6 +16,7 @@
 LOGIN ADMIN
 
 URL 		: http://localhost/sikatam/admin/login.php
+
 USERNAME 	: admin
 pASSWORD 	: password
 
