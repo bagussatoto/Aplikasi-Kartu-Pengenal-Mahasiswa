@@ -1,0 +1,420 @@
+2021-07-12 08:23:21: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 09:57:01: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 10:04:26: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 10:10:51: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 10:27:35: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 10:32:52: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2021-07-12 10:38:13: <br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Notice</b>:  Trying to access array offset on value of type int in <b>C:\Xampp\htdocs\sikatam\phpqrcode\qrsplit.php</b> on line <b>62</b><br />

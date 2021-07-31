@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^demokts\.goblog252\.com$
+RewriteRule ^/?$ "https\:\/\/demokts\.goblog252\.com\/" [R=301,L]
+

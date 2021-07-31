@@ -1,0 +1,40 @@
+[06-Mar-2021 15:11:38 Asia/Jakarta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [../images/kts_finish/2020/clara-audia-mayorra-oktaviani-primadevi-daputri-00] in /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('../images/kts_f...', false)
+#1 /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/goblogc in /home/goblogco/public_html/demokts/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[28-Mar-2021 17:40:40 Asia/Jakarta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [../images/design_kts/] in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('../images/desig...', false)
+#1 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2 in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[28-Mar-2021 17:41:25 Asia/Jakarta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [../images/design_kts/] in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('../images/desig...', false)
+#1 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2 in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[28-Mar-2021 17:44:40 Asia/Jakarta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [../images/design_kts/] in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('../images/desig...', false)
+#1 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2 in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[28-Mar-2021 17:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [../images/design_kts/] in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('../images/desig...', false)
+#1 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2 in /home/goblogco/public_html/katusa/html2pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519

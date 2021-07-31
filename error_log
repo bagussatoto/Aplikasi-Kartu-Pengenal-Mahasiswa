@@ -1,0 +1,26 @@
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/Exception.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/SMTP.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(phpmailer/src/SMTP.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:04:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/goblogco/public_html/katusa/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/goblogco/public_html/katusa/index.php on line 210
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/Exception.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 195
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 196
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/SMTP.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(phpmailer/src/SMTP.php): failed to open stream: No such file or directory in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Warning:  include(): Failed opening 'phpmailer/src/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/goblogco/public_html/katusa/index.php on line 197
+[28-Mar-2021 21:05:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/goblogco/public_html/katusa/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/goblogco/public_html/katusa/index.php on line 210

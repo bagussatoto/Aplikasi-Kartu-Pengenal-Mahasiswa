@@ -1,0 +1,6 @@
+[11-Jan-2021 16:41:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
+[11-Jan-2021 16:41:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
+[11-Jan-2021 16:41:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
+[11-Jan-2021 16:42:13 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
+[11-Jan-2021 16:47:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
+[11-Jan-2021 21:20:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/sttpo556/public_html/ktm/mahasiswa/cekQrLogin.php on line 19
