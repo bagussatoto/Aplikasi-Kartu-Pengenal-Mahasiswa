@@ -8,7 +8,7 @@
 
   • Data Mahasiswa 
   • Data Jurusan
-  • KAertu Mahasiswa
+  • Kartu Mahasiswa
   • Template Kartu
   • Pengaturan Website
   • Data Fungsi
