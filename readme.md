@@ -6,12 +6,18 @@
 
 =============================================================
 
-  • Data Mahasiswa 
+  • Data Mahasiswa
+ 
   • Data Jurusan
+
   • Kartu Mahasiswa
+
   • Template Kartu
+
   • Pengaturan Website
+
   • Data Fungsi
+
   • Dan Lainnya
   
 =============================================================
