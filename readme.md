@@ -3,9 +3,6 @@
 
 **Fitur Aplikasi Kartu Tanda Mahasiswa**
 
-
-=============================================================
-
   • Data Mahasiswa
  
   • Data Jurusan
