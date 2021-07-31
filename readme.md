@@ -34,6 +34,7 @@ URL 		: http://localhost/sikatam/mahasiswa/qr-login.php
 LOGIN MAHASISWA MENGGUNAKAN DATA
 
 URL 		: http://localhost/sikatam/mahasiswa/login.php
+
 USERNAME 	: NIM MAHASISWA
 PASSWORD 	: 123456 (DEFAULT PASSWORD)
 
