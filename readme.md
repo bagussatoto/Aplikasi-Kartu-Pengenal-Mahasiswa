@@ -1,6 +1,6 @@
 # APLIKASI KARTU PENGENAL MAHASISWA BERBASIS PHP CODEIGNITER 
 
-=======================================================
+=============================================================
 
 **Fitur Aplikasi Kartu Tanda Mahasiswa**
 
