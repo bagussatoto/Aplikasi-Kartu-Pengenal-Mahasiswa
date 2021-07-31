@@ -24,7 +24,8 @@ LOGIN ADMIN
 URL 		: http://localhost/sikatam/admin/login.php
 
 USERNAME 	: admin
-pASSWORD 	: password
+
+PASSWORD 	: password
 
 =============================================================
 
@@ -39,6 +40,7 @@ LOGIN MAHASISWA MENGGUNAKAN DATA
 URL 		: http://localhost/sikatam/mahasiswa/login.php
 
 USERNAME 	: NIM MAHASISWA
+
 PASSWORD 	: 123456 (DEFAULT PASSWORD)
 
 
